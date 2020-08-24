@@ -27,6 +27,15 @@ Inspired by https://github.com/tuvtran/project-based-learning, I am listing proj
 - [ ] [Write a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 - [ ] [Writing a Lisp, the series](https://bernsteinbear.com/blog/lisp/)
 
+## Python:
+
+### Web Scraping:
+
+- [ ] [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+- [ ] [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
+- [ ] [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
+- [ ] [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
+
 ### Rust:
 - [ ] [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [ ] [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)
