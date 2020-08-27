@@ -1,5 +1,4 @@
 # Project Based Learning
-Inspired by https://github.com/tuvtran/project-based-learning, I am listing projects I am interested in completing.
 
 ## Projects:
 ### C:
